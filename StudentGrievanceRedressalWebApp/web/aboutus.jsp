@@ -145,7 +145,6 @@ nav{
    width:90%;
    margin:auto;
    padding:5% 5%;
-/*   over-flow:hidden;*/
 }
 .team h1{
    text-align:center;
